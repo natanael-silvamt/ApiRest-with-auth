@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "M0XGXy2hwGEbiDQY2rWn48WKIRfFF9NKlRaxtN/jREDVSgFY0XDpmX5gqAhO/II10+PtmZw5R+Uf9sC1pp2ujA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natan\\OneDrive\\Documentos\\api-with-auth\\api-with-auth\\api-with-auth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\natan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\natan\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\natan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\natan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\natan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
